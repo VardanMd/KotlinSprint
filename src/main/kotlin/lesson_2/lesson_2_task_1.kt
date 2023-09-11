@@ -1,4 +1,4 @@
-package lesson_2_task_1
+package lesson_2
 
 fun main() {
     val studentNumber1 = 3
